@@ -13,6 +13,6 @@ The goal of this analysis is to find out how many current emplyees will be retir
 
 ## Summary
 
-![This is an image](https://github.com/BNew2022/Pewlett_Hackard_Analysis/commit/b31cf8cc78b603122881db5e159b665d5ca83fa0)
+![This is an image](https://github.com/BNew2022/Pewlett_Hackard_Analysis/commit/)
 
 
